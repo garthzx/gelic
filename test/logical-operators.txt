@@ -1,0 +1,7 @@
+var number = 10;
+
+print number == 10;
+print number < 20;
+print number > 20;
+print number >= 10;
+print number <= 10;

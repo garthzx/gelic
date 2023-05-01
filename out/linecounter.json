@@ -1,0 +1,545 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\Garth\\OneDrive\\Documents\\Projects\\2023\\pl-final-project\\gelic",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-04-30 15:35:13",
+            "filesum": 16,
+            "codesum": 452,
+            "commentsum": 14,
+            "blanksum": 132,
+            "statistics": {
+                ".py": {
+                    "code": 451,
+                    "comment": 14,
+                    "blank": 132
+                },
+                ".txt": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "filename": "__pycache__\\gelic.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\scanner.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\Token.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\TokenType.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "ast_printer.py"
+                },
+                {
+                    "blank": 27,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "expr.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 45,
+                    "comment": 2,
+                    "filename": "gelic.py"
+                },
+                {
+                    "blank": 31,
+                    "code": 70,
+                    "comment": 2,
+                    "filename": "gparser.py"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "sample.txt"
+                },
+                {
+                    "blank": 36,
+                    "code": 141,
+                    "comment": 6,
+                    "filename": "scanner.py"
+                },
+                {
+                    "blank": 20,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": "stmt.py"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Token.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "TokenType.py"
+                },
+                {
+                    "filename": "tools\\__pycache__\\bcolors.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "tools\\__pycache__\\bcolors.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "tools\\bcolors.py"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2023-04-30 18:56:43",
+            "filesum": 22,
+            "codesum": 596,
+            "commentsum": 19,
+            "blanksum": 189,
+            "statistics": {
+                ".py": {
+                    "code": 595,
+                    "comment": 19,
+                    "blank": 189
+                },
+                ".txt": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "filename": "__pycache__\\expr.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\expr.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\gelic.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\scanner.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\stmt.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\stmt.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\Token.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\Token.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\TokenType.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\TokenType.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 16,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "ast_printer.py"
+                },
+                {
+                    "blank": 27,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "expr.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 45,
+                    "comment": 2,
+                    "filename": "gelic.py"
+                },
+                {
+                    "blank": 72,
+                    "code": 175,
+                    "comment": 3,
+                    "filename": "gparser.py"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "sample.txt"
+                },
+                {
+                    "blank": 36,
+                    "code": 141,
+                    "comment": 6,
+                    "filename": "scanner.py"
+                },
+                {
+                    "blank": 20,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "stmt.py"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Token.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "TokenType.py"
+                },
+                {
+                    "filename": "tools\\__pycache__\\bcolors.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "tools\\__pycache__\\bcolors.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "tools\\bcolors.py"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2023-05-01 00:50:57",
+            "filesum": 35,
+            "codesum": 843,
+            "commentsum": 33,
+            "blanksum": 292,
+            "statistics": {
+                ".py": {
+                    "code": 811,
+                    "comment": 28,
+                    "blank": 283
+                },
+                ".txt": {
+                    "code": 32,
+                    "comment": 5,
+                    "blank": 9
+                }
+            },
+            "filelist": [
+                {
+                    "filename": "__pycache__\\environment.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\expr.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\expr.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\gelic.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\gparser.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\interpreter.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\RuntimeError.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\scanner.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\stmt.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\stmt.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\Token.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\Token.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\TokenType.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__\\TokenType.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 16,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "ast_printer.py"
+                },
+                {
+                    "blank": 12,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "environment.py"
+                },
+                {
+                    "blank": 27,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "expr.py"
+                },
+                {
+                    "blank": 17,
+                    "code": 60,
+                    "comment": 5,
+                    "filename": "gelic.py"
+                },
+                {
+                    "blank": 85,
+                    "code": 202,
+                    "comment": 3,
+                    "filename": "gparser.py"
+                },
+                {
+                    "blank": 60,
+                    "code": 139,
+                    "comment": 6,
+                    "filename": "interpreter.py"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "RuntimeError.py"
+                },
+                {
+                    "blank": 35,
+                    "code": 144,
+                    "comment": 6,
+                    "filename": "scanner.py"
+                },
+                {
+                    "blank": 21,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "stmt.py"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 4,
+                    "filename": "test\\arithmetic.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "test\\comment.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "test\\fib.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "test\\for.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "test\\nested-for.txt"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "test\\scope.txt"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "test\\while.txt"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Token.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "TokenType.py"
+                },
+                {
+                    "filename": "tools\\__pycache__\\bcolors.cpython-310.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "tools\\__pycache__\\bcolors.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "tools\\bcolors.py"
+                }
+            ]
+        }
+    ]
+}

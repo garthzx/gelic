@@ -1,0 +1,8 @@
+var global = "global";
+
+{
+  var scoped = "scoped";
+  print scoped;
+}
+
+print global;
