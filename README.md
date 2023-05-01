@@ -6,10 +6,10 @@ conditional statements, and loops. Written in Python 3.
 1. Clone or download this repository.
 2. Navigate to project's root directory.
 3. On the terminal, run the command below to start the Gelic interactive mode:
-   - `python3 .\Gelic.py`
+   - `python3 .\gelic.py`
 
    To run an external .txt file execute the command below. A test folder is provided for sample programs:
-   - `python3 .\Gelic.py .\test\fib.txt`
+   - `python3 .\gelic.py .\test\fib.txt`
 
 
 ## Data Types
@@ -58,3 +58,5 @@ conditional statements, and loops. Written in Python 3.
 - Print
   - `print` evaluates a single expression and displays the result to standard output. Syntax is similar to Python 2.
     - `print "Hello, world"; // Hello, world`
+
+# **NOTE: README in progress**
