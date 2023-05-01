@@ -2,6 +2,16 @@
 A dynamically-typed, C-based syntax programming language. Supports arithmetic operations,
 conditional statements, and loops. Written in Python 3.
 
+## Usage
+1. Clone or download this repository.
+2. Navigate to project's root directory.
+3. On the terminal, run the command below to start the Gelic interactive mode:
+   - `python3 .\Gelic.py`
+
+   To run an external .txt file execute the command below. A test folder is provided for sample programs:
+   - `python3 .\Gelic.py .\test\fib.txt`
+
+
 ## Data Types
 - Booleans: 
   - `true; // not false`
