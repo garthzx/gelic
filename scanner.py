@@ -5,6 +5,9 @@ import gelic
 
 # AKA lexer
 class Scanner:
+  """ 
+    Takes in the raw source code and groups it into a series of Tokens.
+  """
   
   keywords = {
     "and" : TokenType.AND,

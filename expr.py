@@ -34,7 +34,13 @@ class Visitor(ABC):
 
 
 class Expr(ABC):
-  
+  """
+    Base class that all expression classes inherit from. Subclasses of expression 
+    represent the nonterminals of thhe CFG. Each kind (or subclass) or Expr
+    behaves differently at runtime. 
+  Args:
+      ABC (_type_): _description_
+  """
   @abstractmethod
   def accept(self, visitor : Visitor):
     pass

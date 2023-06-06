@@ -1,8 +1,8 @@
-var global = "global";
+var name = "global";
 
 {
-  var scoped = "scoped";
-  print scoped;
+  var name = "scoped";
+  print name;
 }
 
-print global;
+print name;

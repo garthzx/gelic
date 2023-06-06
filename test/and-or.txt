@@ -3,3 +3,4 @@ var j = 1;
 var k = 2;
 
 print (i < k) and (j < k);
+print (i < k) or (j < k);

@@ -22,7 +22,7 @@ conditional statements, and loops. Written in Python 3.
   - `12.34; // float`
 - Strings:
   - Gelic strings are enclosed in double quotes.
-  - `"Gelic using double quotes for strings."`
+  - `"Gelic uses double quotes for strings."`
   - `"";`
   - `"123";`
 - Nulls:
@@ -58,5 +58,3 @@ conditional statements, and loops. Written in Python 3.
 - Print
   - `print` evaluates a single expression and displays the result to standard output. Syntax is similar to Python 2.
     - `print "Hello, world"; // Hello, world`
-
-# **NOTE: README in progress**

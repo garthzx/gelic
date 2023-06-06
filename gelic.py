@@ -8,7 +8,10 @@ from TokenType import TokenType
 from RuntimeError import RuntimeError
 
 class Gelic:
-
+  """ 
+  @author Garth Ayang-ang
+  """
+  
   def __init__(self) -> None:
     self.interpreter = itpr.Interpreter(self)  
     self.hadError = False
@@ -36,7 +39,10 @@ class Gelic:
   def run(self, source, interpreter):
     scanner = sc.Scanner(source, self)
     tokens = scanner.scanTokens()
-    
+
+    # for token in tokens:
+    #   print(token.toString())      
+
     # gelic = Gelic()
     parser = gp.Parser(tokens, self)
     
@@ -47,9 +53,6 @@ class Gelic:
       return
         
     interpreter.interpret(statements)
-    
-    # for token in tokens:
-      # print(token.toString())  
     
   def error(self, line, message):
     self.report(line, "", message)
